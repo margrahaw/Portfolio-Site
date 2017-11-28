@@ -1,4 +1,4 @@
 # Treehouse-Project12-Portfolio
 Personal Portfolio
 
-A capstone project for a class taken through Treehouse. The site was created using HTML, CSS, JavaScript, and Foundation.js as a framework.
+A Portfolio Site for Mary Hawley. The site was created using HTML, CSS, JavaScript, and used Foundation.js as a framework. The site can be found here [Mary Hawley](https://margrahaw.github.io/Treehouse-Project12-Portfolio).
